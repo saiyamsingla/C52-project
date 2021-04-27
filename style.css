@@ -1,0 +1,188 @@
+h1{
+  color:whitesmoke;
+  margin:30px;
+}
+h2{
+  
+  color:white;
+  margin: 30px;
+}
+h4{
+  text-align: end;
+}
+
+.head{
+      
+    background-color:#222222;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+     }
+  
+
+  .grid {
+    
+    background-color: #FDFDFD;
+    display: flex;
+    justify-content: space-evenly;
+  
+   
+    flex-wrap: wrap;
+  }
+  
+  .panda{
+    max-width: 300px;
+    border: dashed;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.panda:hover p {
+    opacity: 1;
+}
+
+.panda:hover img {
+    opacity: 0.5;
+}
+
+.panda:hover {
+    transform: scale(1.15);
+}
+
+.panda-text{
+    display: flex;
+    justify-content: space-between;
+    color:magenta
+}
+
+.chameleon{
+    max-width: 300px;
+    border: dashed;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.chameleon:hover p {
+    opacity: 1;
+}
+
+.chameleon:hover img {
+    opacity: 0.5;
+}
+
+.chameleon:hover {
+    transform: scale(1.15);
+}
+
+.chameleon-text{
+    display: flex;
+    justify-content: space-between;
+    color:greenyellow
+}
+
+.cicada{
+    max-width: 300px;
+    border: dashed;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.cicada:hover p {
+    opacity: 1;
+}
+
+.cicada:hover img {
+    opacity: 0.5;
+}
+
+.cicada:hover {
+    transform: scale(1.15);
+}
+
+.cicada-text{
+    display: flex;
+    justify-content: space-between;
+    color:red
+}
+
+.pigeon{
+    max-width: 300px;
+    border: dashed;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.pigeon:hover p {
+    opacity: 1;
+}
+
+.pigeon:hover img {
+    opacity: 0.5;
+}
+
+.pigeon:hover {
+    transform: scale(1.15);
+}
+
+.pigeon-text{
+    display: flex;
+    justify-content: space-between;
+    color:black
+}
+
+.teddy{
+    max-width: 300px;
+    border: dashed;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.teddy:hover p {
+    opacity: 1;
+}
+
+.teddy:hover img {
+    opacity: 0.5;
+}
+
+.teddy:hover {
+    transform: scale(1.15);
+}
+
+.teddy-text{
+    display: flex;
+    justify-content: space-between;
+    color:brown
+}
+
+.camel{
+    max-width: 300px;
+    border: dashed;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.camel:hover p {
+    opacity: 1;
+}
+
+.camel:hover img {
+    opacity: 0.5;
+}
+
+.camel:hover {
+    transform: scale(1.15);
+}
+
+.camel-text{
+    display: flex;
+    justify-content: space-between;
+    color:gold
+}
+
+  
